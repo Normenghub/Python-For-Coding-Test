@@ -13,6 +13,6 @@ for i in range(1,30001):
  
 
 
-print(dp[int(input())+1])
+print(dp[int(input())])
 
 #BottomUP DP
